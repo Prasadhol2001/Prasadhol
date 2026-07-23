@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490" width="490" height="490">
+<defs>
+  <style>
+    .card-bg { fill: #0d1117; rx: 8px; ry: 8px; stroke: #30363d; stroke-width: 1px; }
+    .header-dot { rx: 50%; ry: 50%; }
+    .title-text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 11px; fill: #8b949e; font-weight: 600; }
+    .term-text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; }
+    .user-title { fill: #58a6ff; font-weight: bold; font-size: 15px; }
+    .host-title { fill: #bc8cff; font-weight: bold; font-size: 15px; }
+    .separator { stroke: #30363d; stroke-width: 1px; }
+    .key { fill: #79c0ff; font-weight: 600; }
+    .val { fill: #c9d1d9; }
+    .val-highlight { fill: #7ee787; font-weight: 500; }
+    .prompt { fill: #d2a8ff; font-weight: bold; }
+    .fade-line { opacity: 0; transform: translateY(6px); animation: fadeIn 0.4s ease-out forwards; }
+    @keyframes fadeIn { to { opacity: 1; transform: translateY(0); } }
+  </style>
+</defs>
+<rect class="card-bg" width="490" height="490" />
+<circle class="header-dot" cx="20" cy="18" r="5" fill="#ff5f56" />
+<circle class="header-dot" cx="35" cy="18" r="5" fill="#ffbd2e" />
+<circle class="header-dot" cx="50" cy="18" r="5" fill="#27c93f" />
+<text class="title-text" x="245" y="22" text-anchor="middle">neofetch --user info-card.svg</text>
+<line x1="0" y1="32" x2="490" y2="32" stroke="#21262d" stroke-width="1" />
+<g class="fade-line" style="animation-delay: 0.10s;">
+  <text class="term-text" x="24" y="62"><tspan class="user-title">info-card.svg</tspan><tspan class="val">@</tspan><tspan class="host-title">github</tspan></text>
+</g>
+<g class="fade-line" style="animation-delay: 0.18s;">
+  <line x1="24" y1="80" x2="466" y2="80" class="separator" />
+</g>
+<g class="fade-line" style="animation-delay: 0.26s;">
+  <text class="term-text" x="24" y="110">
+    <tspan class="key">OS:</tspan>&#160;&#160;<tspan class="val">GitHub Profile Linux x86_64</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 0.34s;">
+  <text class="term-text" x="24" y="134">
+    <tspan class="key">Host:</tspan>&#160;&#160;<tspan class="val">Cloud Engine v2.4</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 0.42s;">
+  <text class="term-text" x="24" y="158">
+    <tspan class="key">Kernel:</tspan>&#160;&#160;<tspan class="val">5.15.0-profile-generic</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 0.50s;">
+  <text class="term-text" x="24" y="182">
+    <tspan class="key">Uptime:</tspan>&#160;&#160;<tspan class="val">365 days, 24 mins</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 0.58s;">
+  <text class="term-text" x="24" y="206">
+    <tspan class="key">Shell:</tspan>&#160;&#160;<tspan class="val">zsh 5.9 (x86_64-apple-darwin22.0)</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 0.66s;">
+  <text class="term-text" x="24" y="230">
+    <tspan class="key">Role:</tspan>&#160;&#160;<tspan class="val">Full-Stack Software Engineer</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 0.74s;">
+  <text class="term-text" x="24" y="254">
+    <tspan class="key">Focus:</tspan>&#160;&#160;<tspan class="val">Web Architecture, APIs, DevTools</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 0.82s;">
+  <text class="term-text" x="24" y="278">
+    <tspan class="key">Stack:</tspan>&#160;&#160;<tspan class="val">Python, TypeScript, React, Node.js, C++</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 0.90s;">
+  <text class="term-text" x="24" y="302">
+    <tspan class="key">Editor:</tspan>&#160;&#160;<tspan class="val">VS Code / Antigravity IDE</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 0.98s;">
+  <text class="term-text" x="24" y="326">
+    <tspan class="key">Terminal:</tspan>&#160;&#160;<tspan class="val">Kitty / iTerm2 / Windows Terminal</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 1.06s;">
+  <text class="term-text" x="24" y="350">
+    <tspan class="key">Status:</tspan>&#160;&#160;<tspan class="val">Building awesome open-source software 🚀</tspan>
+  </text>
+</g>
+<g class="fade-line" style="animation-delay: 1.14s;">
+  <rect x="24" y="366" width="20" height="14" rx="3" fill="#484f58" />
+  <rect x="48" y="366" width="20" height="14" rx="3" fill="#ff7b72" />
+  <rect x="72" y="366" width="20" height="14" rx="3" fill="#7ee787" />
+  <rect x="96" y="366" width="20" height="14" rx="3" fill="#f2cc60" />
+  <rect x="120" y="366" width="20" height="14" rx="3" fill="#79c0ff" />
+  <rect x="144" y="366" width="20" height="14" rx="3" fill="#d2a8ff" />
+  <rect x="168" y="366" width="20" height="14" rx="3" fill="#a5d6ff" />
+  <rect x="192" y="366" width="20" height="14" rx="3" fill="#f0f6fc" />
+</g>
+</svg>

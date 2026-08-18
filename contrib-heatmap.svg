@@ -398,11 +398,12 @@
 <rect class="day-rect" x="756" y="135" width="11" height="11" fill="#006d32" style="animation-delay: 0.737s;"><title>2 contributions on 2026-08-14</title></rect>
 <rect class="day-rect" x="756" y="149" width="11" height="11" fill="#006d32" style="animation-delay: 0.752s;"><title>2 contributions on 2026-08-15</title></rect>
 <rect class="day-rect" x="770" y="65" width="11" height="11" fill="#006d32" style="animation-delay: 0.674s;"><title>2 contributions on 2026-08-16</title></rect>
-<rect class="day-rect" x="770" y="79" width="11" height="11" fill="#161b22" style="animation-delay: 0.689s;"><title>0 contributions on 2026-08-17</title></rect>
+<rect class="day-rect" x="770" y="79" width="11" height="11" fill="#006d32" style="animation-delay: 0.689s;"><title>2 contributions on 2026-08-17</title></rect>
+<rect class="day-rect" x="770" y="93" width="11" height="11" fill="#161b22" style="animation-delay: 0.704s;"><title>0 contributions on 2026-08-18</title></rect>
 <text class="stat-text" x="42" y="189">
-  <tspan class="stat-bold">113</tspan> contributions in the last year | 
+  <tspan class="stat-bold">115</tspan> contributions in the last year | 
   Current streak: <tspan class="stat-bold">0 days</tspan> | 
-  Longest streak: <tspan class="stat-bold">25 days</tspan>
+  Longest streak: <tspan class="stat-bold">26 days</tspan>
 </text>
 <text class="label-text" x="692" y="189">Less</text>
 <rect x="700" y="180" width="10" height="10" rx="2" fill="#161b22" />

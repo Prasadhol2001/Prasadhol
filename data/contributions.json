@@ -1,50 +1,15 @@
 {
   "username": "Prasadhol2001",
-  "updated_at": "2026-10-10T12:32:04.770705+00:00",
-  "total_contributions": 223,
-  "current_streak": 80,
-  "longest_streak": 80,
+  "updated_at": "2026-10-11T12:50:09.573165+00:00",
+  "total_contributions": 225,
+  "current_streak": 81,
+  "longest_streak": 81,
   "best_day": {
     "date": "2026-07-23",
     "count": 23
   },
-  "days_count": 371,
+  "days_count": 365,
   "days": [
-    {
-      "date": "2025-10-05",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-06",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-07",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-08",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-09",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-10",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-11",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-12",
       "level": 0,
@@ -1862,6 +1827,11 @@
     },
     {
       "date": "2026-10-10",
+      "level": 2,
+      "count": 2
+    },
+    {
+      "date": "2026-10-11",
       "level": 1,
       "count": 1
     }

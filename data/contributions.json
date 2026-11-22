@@ -1,50 +1,15 @@
 {
   "username": "Prasadhol2001",
-  "updated_at": "2026-11-21T14:39:18.148795+00:00",
-  "total_contributions": 307,
-  "current_streak": 122,
-  "longest_streak": 122,
+  "updated_at": "2026-11-22T14:34:27.003382+00:00",
+  "total_contributions": 306,
+  "current_streak": 123,
+  "longest_streak": 123,
   "best_day": {
     "date": "2026-07-23",
     "count": 23
   },
-  "days_count": 371,
+  "days_count": 365,
   "days": [
-    {
-      "date": "2025-11-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-11-23",
       "level": 0,
@@ -967,13 +932,13 @@
     },
     {
       "date": "2026-05-26",
-      "level": 3,
+      "level": 4,
       "count": 4
     },
     {
       "date": "2026-05-27",
       "level": 2,
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-05-28",
@@ -1138,7 +1103,7 @@
     {
       "date": "2026-06-29",
       "level": 3,
-      "count": 5
+      "count": 3
     },
     {
       "date": "2026-06-30",
@@ -1487,7 +1452,7 @@
     },
     {
       "date": "2026-09-07",
-      "level": 2,
+      "level": 3,
       "count": 3
     },
     {
@@ -1837,7 +1802,7 @@
     },
     {
       "date": "2026-11-16",
-      "level": 2,
+      "level": 3,
       "count": 3
     },
     {
@@ -1862,6 +1827,11 @@
     },
     {
       "date": "2026-11-21",
+      "level": 2,
+      "count": 2
+    },
+    {
+      "date": "2026-11-22",
       "level": 1,
       "count": 1
     }
